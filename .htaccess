@@ -1,0 +1,10 @@
+RewriteEngine On
+
+RewriteRule ^napthe/$ /fbduongvip04/vc/dcm/napthe.php [L]
+RewriteRule ^APITRUMDOITHE.php/$ /APITRUMDOITHE.php [L]
+RewriteRule ^napthe$ fbduongvip04/vc/dcm/napthe.php [L]
+RewriteRule ^quen-mat-khau/$ /quen-mat-khau.php [L]
+RewriteRule ^dang-xuat/$ /dang-xuat.php [L]
+RewriteRule ^thong-tin/$ /thong-tin.php [L]
+RewriteRule ^rut-tien/$ /rut-tien.php [L]
+RewriteRule ^mua-the/$ /mua-the.php [L]
